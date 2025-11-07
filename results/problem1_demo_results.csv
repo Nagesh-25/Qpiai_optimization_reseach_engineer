@@ -1,0 +1,2 @@
+instance,n_nodes,n_edges,cut_value,energy,best_known,gap_percent,runtime,iterations,method,temperature_schedule
+random_demo,60,225,1725.0,-1669.0,,,14.97502088546753,30000,SA+Local,adaptive
